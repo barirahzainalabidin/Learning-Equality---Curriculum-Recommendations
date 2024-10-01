@@ -1,7 +1,7 @@
 # Learning-Equality-Curriculum-Recommendations
 Enhance learning by matching K-12 content to target topics
 
-# Train Model Using Bert :
+# Train Model Using BERT :
 
 Solution ---> https://www.kaggle.com/code/barirahzainal/learning-equality-bert
 
