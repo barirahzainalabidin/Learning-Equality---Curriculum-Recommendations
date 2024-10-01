@@ -10,4 +10,4 @@ Solution ---> https://www.kaggle.com/code/barirahzainal/learning-equality-bert
 
 # Recommendation System :
 
----> https://www.kaggle.com/code/barirahzainal/learning-equality-recommendation
+Solution ---> https://www.kaggle.com/code/barirahzainal/learning-equality-recommendation
