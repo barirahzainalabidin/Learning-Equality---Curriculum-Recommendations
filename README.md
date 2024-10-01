@@ -5,7 +5,7 @@ Enhance learning by matching K-12 content to target topics
 
 Solution ---> https://www.kaggle.com/code/barirahzainal/learning-equality-bert
 
-# Metric - 0.547
+# Metric F2 Score - 0.547
 
 
 # Recommendation System :
